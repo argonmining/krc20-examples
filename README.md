@@ -1,4 +1,4 @@
-All code examples were originally build by CoinChimp in this repo: https://github.com/coinchimp/kaspa-krc20-apps **Thank you CoinChimp!**
+All code examples were originally built by CoinChimp in this repo: https://github.com/coinchimp/kaspa-krc20-apps **Thank you CoinChimp!**
 
 # Kaspa KRC20 Token Integration Examples
 
